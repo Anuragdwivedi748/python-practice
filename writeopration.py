@@ -1,0 +1,5 @@
+#f=open("demo2.txt","a")
+#f.write("/n My name is sant")
+#f.close()
+f=open("sample.txt","w")
+f.close()
